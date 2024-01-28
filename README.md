@@ -29,10 +29,6 @@ Throughout the development process, I have followed best practices and maintaine
 
 
 
-
-
-
-
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
